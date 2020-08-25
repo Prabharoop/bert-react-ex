@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bert-react-ex/precache-manifest.3ff40cff7b3c4b9fd3689064aeccd890.js"
+  "/bert-react-ex/precache-manifest.6ea3d418722072667a63b490e3114302.js"
 );
 
 self.addEventListener('message', (event) => {

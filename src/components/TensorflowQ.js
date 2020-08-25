@@ -6,6 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Form from 'react-bootstrap/Form'
 import { Col } from 'react-bootstrap';
 import Button from 'react-bootstrap/Button';
+import * as tf from '@tensorflow/tfjs';
 
 
 export default class TensorflowQ extends Component {

@@ -1,5 +1,3 @@
-import * as tf from '@tensorflow/tfjs';
-import '@tensorflow/tfjs';
 import * as qna from '@tensorflow-models/qna';
 import React, { Component } from 'react'
 import './TensorflowQ.min.css'
